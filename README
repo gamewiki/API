@@ -1,3 +1,7 @@
+1.https://api.github.com/repos/{USER}/{工程}/contents/{文件路径}
+https://api.github.com/repos/jaaksi/API/contents/contact/config/config.json
+
+2.get请求返回格式，其中content字段是将你的json内容经过Base64编码，你需要先去除所有的\n，然后用Base64解码
 {
   "name": "config.json",
   "path": "contact/config/config.json",
