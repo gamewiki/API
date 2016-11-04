@@ -1,0 +1,23 @@
+{
+  "errno": 0,
+  "error": "",
+  "data": {
+    "tab": [
+      {
+        "title": "消息",
+        "imgUrl": "",
+        "actionUrl": "contact://tab/message"
+      },
+      {
+        "title": "联系人",
+        "imgUrl": "",
+        "actionUrl": "contact://tab/contacts"
+      },
+      {
+        "title": "我的",
+        "imgUrl": "",
+        "actionUrl": "contact://tab/mime"
+      }
+    ]
+  }
+}
