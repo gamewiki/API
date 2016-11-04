@@ -5,17 +5,17 @@
     "tab": [
       {
         "title": "消息",
-        "imgUrl": "",
+        "imgUrl": "contact://tab/message",
         "actionUrl": "contact://tab/message"
       },
       {
         "title": "联系人",
-        "imgUrl": "",
+        "imgUrl": "contact://tab/message",
         "actionUrl": "contact://tab/contacts"
       },
       {
         "title": "我的",
-        "imgUrl": "",
+        "imgUrl": "http://p.3761.com/pic/231432169575.jpg",
         "actionUrl": "contact://tab/mime"
       }
     ]
