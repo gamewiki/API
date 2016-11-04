@@ -1,18 +1,14 @@
 {
-  "name": "config.json",
-  "path": "contact/config/config.json",
-  "sha": "f3c739d3322f6bbc944f2192530aec78050986ca",
-  "size": 437,
-  "url": "https://api.github.com/repos/jaaksi/API/contents/contact/config/config.json?ref=master",
-  "html_url": "https://github.com/jaaksi/API/blob/master/contact/config/config.json",
-  "git_url": "https://api.github.com/repos/jaaksi/API/git/blobs/f3c739d3322f6bbc944f2192530aec78050986ca",
-  "download_url": "https://raw.githubusercontent.com/jaaksi/API/master/contact/config/config.json",
-  "type": "file",
-  "content": "ew0gICJhZGRyZXNzIjogIuWkqea0pS3pno3lsbHopb9cbumBk+S4jueZveWg\npOi3r+S6pOWPoyIsDSAgImFyZWEiOiAiNDEtOTltwrIiLA0gICJhdmdQcmlj\nZSI6ICLlnYdcXG7ku7cyOTAwMOWFgy9twrIiLA0gICJidWlsZGluZ0lkIjog\nIjEyMTEwOTk5OTQ4MDAiLA0gICJidWlsZGluZ0ltZ1VybCI6ICJodHRwOi8v\naW1hZ2UzLmxpYW5qaWEuY29tL3hmLXJlc2Jsb2NrLzA5YmJkZDU4LWRmNGUt\nNDI1ZS04MjkzLWY1ODE1ZTYwMGVjOC5qcGciLA0gICJidWlsZGluZ05hbWUi\nOiAi5p2+5rGf572u5ZiJ5YWs5a+TXFxuIiwNICAiY2l0eUNvZGUiOiAiMTIw\nMDAwIiwNICAic2NoZW1lVXJsIjogImh0dHA6Ly9odWxrMTEudGVzdG0ubGlh\nbmppYS5jb20vdGovbG91cGFuL3Bfc2p6amd5YWFwdGQvIiwNICAicm9vbVR5\ncGUiOiAiMS8y5bGFIiwNICAiZnJvbVR5cGUiOiAwDX0=\n",
-  "encoding": "base64",
-  "_links": {
-    "self": "https://api.github.com/repos/jaaksi/API/contents/contact/config/config.json?ref=master",
-    "git": "https://api.github.com/repos/jaaksi/API/git/blobs/f3c739d3322f6bbc944f2192530aec78050986ca",
-    "html": "https://github.com/jaaksi/API/blob/master/contact/config/config.json"
+  "data": {
+    "address": "天津-鞍山西道与白堤路交口",
+    "area": "41-99m²",
+    "avgPrice": "均价29000元/m²",
+    "buildingId": "1211099994800",
+    "buildingImgUrl": "http://image3.lianjia.com/xf-resblock/09bbdd58-df4e-425e-8293-f5815e600ec8.jpg.500x.jgp",
+    "buildingName": "松江置嘉公寓",
+    "cityCode": "120000",
+    "schemeUrl": "http://hulk11.testm.lianjia.com/tj/loupan/p_sjzjgyaaptd/",
+    "roomType": "1/2居",
+    "fromType": 0
   }
 }
