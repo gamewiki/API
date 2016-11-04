@@ -10,7 +10,7 @@
       },
       {
         "title": "联系人",
-        "imgUrl": "contact://tab/message",
+        "imgUrl": "contact://tab/contacts",
         "actionUrl": "contact://tab/contacts"
       },
       {
