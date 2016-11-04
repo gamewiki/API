@@ -1,6 +1,19 @@
 {
-  "errno": 0,
-  "data": {
-    "address": "天津-鞍山西道与白堤路交口"
-  }
+  "tab": [
+    {
+      "title": "消息",
+      "imgUrl": "",
+      "actionUrl": "contact://tab/message"
+    },
+    {
+      "title": "联系人",
+      "imgUrl": "",
+      "actionUrl": "contact://tab/contacts"
+    },
+    {
+      "title": "我的",
+      "imgUrl": "",
+      "actionUrl": "contact://tab/mime"
+    }
+  ]
 }
