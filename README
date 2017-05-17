@@ -1,0 +1,22 @@
+1.https://api.github.com/repos/{USER}/{工程}/contents/{文件路径}
+https://api.github.com/repos/jaaksi/API/contents/contact/config/config.json
+
+2.get请求返回格式，其中content字段是将你的json内容经过Base64编码，你需要先去除所有的\n，然后用Base64解码
+{
+  "name": "config.json",
+  "path": "contact/config/config.json",
+  "sha": "f3c739d3322f6bbc944f2192530aec78050986ca",
+  "size": 437,
+  "url": "https://api.github.com/repos/jaaksi/API/contents/contact/config/config.json?ref=master",
+  "html_url": "https://github.com/jaaksi/API/blob/master/contact/config/config.json",
+  "git_url": "https://api.github.com/repos/jaaksi/API/git/blobs/f3c739d3322f6bbc944f2192530aec78050986ca",
+  "download_url": "https://raw.githubusercontent.com/jaaksi/API/master/contact/config/config.json",
+  "type": "file",
+  "content": "ew0gICJhZGRyZXNzIjogIuWkqea0pS3pno3lsbHopb9cbumBk+S4jueZveWg\npOi3r+S6pOWPoyIsDSAgImFyZWEiOiAiNDEtOTltwrIiLA0gICJhdmdQcmlj\nZSI6ICLlnYdcXG7ku7cyOTAwMOWFgy9twrIiLA0gICJidWlsZGluZ0lkIjog\nIjEyMTEwOTk5OTQ4MDAiLA0gICJidWlsZGluZ0ltZ1VybCI6ICJodHRwOi8v\naW1hZ2UzLmxpYW5qaWEuY29tL3hmLXJlc2Jsb2NrLzA5YmJkZDU4LWRmNGUt\nNDI1ZS04MjkzLWY1ODE1ZTYwMGVjOC5qcGciLA0gICJidWlsZGluZ05hbWUi\nOiAi5p2+5rGf572u5ZiJ5YWs5a+TXFxuIiwNICAiY2l0eUNvZGUiOiAiMTIw\nMDAwIiwNICAic2NoZW1lVXJsIjogImh0dHA6Ly9odWxrMTEudGVzdG0ubGlh\nbmppYS5jb20vdGovbG91cGFuL3Bfc2p6amd5YWFwdGQvIiwNICAicm9vbVR5\ncGUiOiAiMS8y5bGFIiwNICAiZnJvbVR5cGUiOiAwDX0=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/jaaksi/API/contents/contact/config/config.json?ref=master",
+    "git": "https://api.github.com/repos/jaaksi/API/git/blobs/f3c739d3322f6bbc944f2192530aec78050986ca",
+    "html": "https://github.com/jaaksi/API/blob/master/contact/config/config.json"
+  }
+}

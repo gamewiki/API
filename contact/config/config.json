@@ -1,1 +1,23 @@
-{  "address": "天津-鞍山西道与白堤路交口",  "area": "41-99m²",  "avgPrice": "均价29000元/m²",  "buildingId": "1211099994800",  "buildingImgUrl": "http://image3.lianjia.com/xf-resblock/09bbdd58-df4e-425e-8293-f5815e600ec8.jpg",  "buildingName": "松江置嘉公寓",  "cityCode": "120000",  "schemeUrl": "http://hulk11.testm.lianjia.com/tj/loupan/p_sjzjgyaaptd/",  "roomType": "1/2居",  "fromType": 0}
+{
+  "errno": 0,
+  "error": "",
+  "data": {
+    "tab": [
+      {
+        "title": "消息",
+        "imgUrl": "contact://tab/message",
+        "actionUrl": "contact://tab/message"
+      },
+      {
+        "title": "联系人",
+        "imgUrl": "contact://tab/contacts",
+        "actionUrl": "contact://tab/contacts"
+      },
+      {
+        "title": "我的",
+        "imgUrl": "http://p.3761.com/pic/231432169575.jpg",
+        "actionUrl": "contact://tab/mine"
+      }
+    ]
+  }
+}
